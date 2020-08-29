@@ -1,0 +1,25 @@
+{
+    "name": "delboy1978uk/bone-crypt",
+    "description": "An openssl based encryption/decryption class",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Derek Stephen McLean",
+            "email": "delboy1978uk@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "ext-openssl": "*"
+    },
+    "require-dev":{
+        "codeception/codeception":"^4.1",
+        "codeception/module-asserts": "^1.1"
+    },
+    "autoload":{
+        "psr-4":{
+            "Bone\\Crypt\\":"src/",
+            "BoneTest\\":"tests/unit/"
+        }
+    }
+}
