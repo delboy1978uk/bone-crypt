@@ -1,5 +1,5 @@
 # bone-crypt
-[![Build Status](https://travis-ci.org/delboy1978uk/bone-crypt.png?branch=master)](https://travis-ci.org/delboy1978uk/bone-crypt) [![Code Coverage](https://scrutinizer-ci.com/g/delboy1978uk/bone-crypt/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/delboy1978uk/bone-crypt/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/delboy1978uk/bone-crypt/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/delboy1978uk/bone-crypt/?branch=master) <br />
+![build status](https://github.com/delboy1978uk/bone-crypt/actions/workflows/master.yml/badge.svg) [![Code Coverage](https://scrutinizer-ci.com/g/delboy1978uk/bone-crypt/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/delboy1978uk/bone-crypt/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/delboy1978uk/bone-crypt/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/delboy1978uk/bone-crypt/?branch=master) <br />
 An openssl based encryption/decryption class
 ## installation
 Install via composer
